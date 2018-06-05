@@ -3,7 +3,7 @@
 var friendList = [
     {
       name: 'Niyati Shah',
-      profilePic: 'https://imgur.com/a/YSqgiNS',
+      profilePic: 'https://imgur.com/GOc58Qv',
       scores: [
         "4",
         "5",
